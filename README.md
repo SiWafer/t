@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/refs/heads/main/r
 
 ```
 > For artwork  
-Install from repository -> Fuchs Repo -> Context menus -> Skin Helper Service 
+Install from repository -> Fuchs Repo -> Context menus -> Skin Helper Service   
 
 
 #### Install skin Mod for specific version
@@ -23,14 +23,14 @@ https://github.com/SplitEnz/skin.estuary.pvr.plus.omega
 
 #### Setting to change (optional)
 
-> Get parental ratings for local country  
-Interface -> Skin (-configure skin) -> General Settings -> Select country for parental ratings  
+> Get parental ratings for local country   
+Interface -> Skin (-configure skin) -> General Settings -> Select country for parental ratings   
   
-> Turn off slide animations 
-Interface -> Skin (-configure skin) -> General Settings -> Use slide animations
-  
-> Enable auto scrollin for plots & review
+> Turn off slide animations  
 Interface -> Skin (-configure skin) -> General Settings -> Use slide animations  
   
-> Enable PVR artwork 
-Interface -> Skin (-configure skin) -> PVR Artwork Settings -> Use Skin Helper Script to Hepl toggle
+> Enable auto scrollin for plots & review  
+Interface -> Skin (-configure skin) -> General Settings -> Use slide animations  
+  
+> Enable PVR artwork   
+Interface -> Skin (-configure skin) -> PVR Artwork Settings -> Use Skin Helper Script to Hepl toggle  
