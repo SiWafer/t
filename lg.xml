@@ -85,7 +85,7 @@
 <channel id="StarzEdgeEast.us"><display-name>Starz Edge - Eastern</display-name><icon src="https://i.imgur.com/MvH3Cz2.png"/><url>https://tvpassport.com</url></channel>
 <channel id="StarzEncoreActionEast.us"><display-name>Starz Encore Action - Eastern</display-name><icon src="https://i.imgur.com/wIf4X0i.png"/><url>https://tvpassport.com</url></channel>
 <channel id="StarzEncoreClassic.us"><display-name>Starz Encore Classic HD - Eastern</display-name><url>https://tvpassport.com</url></channel>
-<channel id="StarzEncoreEast.us"><display-name>Starz Encore - Eastern</display-name><icon src="https://i.imgur.com/5ieoKO1.png"/><url>https://tvpassport.com</url></channel>
+<channel id="StarzEncoreEast.us"><display-name>Starz Encore HD - Eastern</display-name><icon src="https://i.imgur.com/5ieoKO1.png"/><url>https://tvpassport.com</url></channel>
 <channel id="StoriesbyAMC.us"><display-name>Stories by AMC</display-name><icon src="https://i.imgur.com/QJtwJoS.png"/><url>https://xumo.tv</url></channel>
 <channel id="SyfyEast.us"><display-name>Syfy</display-name><icon src="https://i.imgur.com/4fMWhUE.png"/><url>https://tvguide.com</url></channel>
 <channel id="TBSEast.us"><display-name>TBS - East</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png"/><url>https://tvpassport.com</url></channel>
